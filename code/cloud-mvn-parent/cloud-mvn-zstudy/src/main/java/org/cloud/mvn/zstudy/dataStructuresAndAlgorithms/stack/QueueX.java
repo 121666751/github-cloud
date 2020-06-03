@@ -1,4 +1,4 @@
-package org.cloud.mvn.zstudy.dsaa.stack;
+package org.cloud.mvn.zstudy.dataStructuresAndAlgorithms.stack;
 
 import java.util.Collection;
 import java.util.Iterator;

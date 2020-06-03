@@ -1,4 +1,4 @@
-package org.cloud.mvn.zstudy.dsaa.array;
+package org.cloud.mvn.zstudy.dataStructuresAndAlgorithms.array;
 
 import java.util.HashMap;
 import java.util.Map;

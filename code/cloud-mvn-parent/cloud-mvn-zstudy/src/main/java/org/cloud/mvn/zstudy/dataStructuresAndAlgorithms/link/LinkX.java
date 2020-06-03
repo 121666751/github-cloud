@@ -1,4 +1,4 @@
-package org.cloud.mvn.zstudy.dsaa.link;
+package org.cloud.mvn.zstudy.dataStructuresAndAlgorithms.link;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
