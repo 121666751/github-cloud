@@ -1,5 +1,6 @@
 package org.cloud.mvn.zstudy.javaVirtualMachine.garbageCollection;
 
+@SuppressWarnings("unused")
 public class ReferenceCountingGC {
 	public Object instance = null;
 	private static final int _1MB = 1024 * 1024;
