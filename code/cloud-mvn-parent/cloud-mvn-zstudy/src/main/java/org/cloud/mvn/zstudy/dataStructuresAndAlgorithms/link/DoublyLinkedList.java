@@ -1,4 +1,4 @@
-package org.cloud.mvn.zstudy.dsaa.link;
+package org.cloud.mvn.zstudy.dataStructuresAndAlgorithms.link;
 
 /**
  * @ClassName: DoublyLinkedList 

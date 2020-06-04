@@ -1,4 +1,4 @@
-package org.cloud.mvn.zstudy.dsaa.recursion;
+package org.cloud.mvn.zstudy.dataStructuresAndAlgorithms.recursion;
 
 public class Recursion {
 	public static void main(String[] args) {

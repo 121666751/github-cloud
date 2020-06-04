@@ -1,4 +1,4 @@
-package org.cloud.mvn.zstudy.dsaa.link;
+package org.cloud.mvn.zstudy.dataStructuresAndAlgorithms.link;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
@@ -110,6 +110,7 @@ public class LinkX {
 		while (iterator.hasNext()) {
 			System.out.print(iterator.next() + " ");
 		}
+		
 //		iterator.
 		System.out.println();
 	}
