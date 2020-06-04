@@ -110,6 +110,7 @@ public class LinkX {
 		while (iterator.hasNext()) {
 			System.out.print(iterator.next() + " ");
 		}
+		
 //		iterator.
 		System.out.println();
 	}
