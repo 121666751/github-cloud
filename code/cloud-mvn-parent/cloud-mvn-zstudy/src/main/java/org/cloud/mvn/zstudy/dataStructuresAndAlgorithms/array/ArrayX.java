@@ -136,7 +136,7 @@ public class ArrayX {
 			arr[preIndex + 1] = current;
 			System.out.println("第 "+(i)+"次插入后:"+print(arr));
 		}
-		System.out.println("最初的数组是:" + print(arr));
+		System.out.println("排序后数组是:" + print(arr));
 	}
 	
 	public static String print(int[] arrary){
